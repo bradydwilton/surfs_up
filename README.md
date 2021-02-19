@@ -7,7 +7,7 @@ This analysis was performed over one year of weather data for the Hawaiian islan
 _Bulleted list that addresses three key differences between June and December weather_
 For the analysis, the temperatures of June and December were compared (results shown below).
 
-<img src='june pic'><img src='dec pic'>
+<img src='https://github.com/bradydwilton/surfs_up/blob/main/resources/juneTemps.png' width=250> <img src='https://github.com/bradydwilton/surfs_up/blob/main/resources/decTemps.png' width=292>
 
 The analysis of temperature data between June and December indicate that the island's temperatures are consistent enough to support the Surf & Ice Cream show. Specific evidence supporting the claim is as follows:
   1. The average temperatures are not too different (75F in June, 71F in December)
@@ -20,4 +20,4 @@ These three points are futher demonstrated by the higher standard deviation of D
 
 The results of the temperature analysis indicate that this is a prime location for the Surf & Ice Cream shop. However, further investigation into the amount of precipitation is warranted before a final decision is made. To perform this analysis, two additional queries could be performed, one for June and one for December, to show the summary statistics for the amount of precipitation received in each month. The results of those two queries are shown below:
 
-<img src='precipJune'><img src='precipDec'>
+<img src='https://github.com/bradydwilton/surfs_up/blob/main/resources/junePrecip.png' width=250> <img src='https://github.com/bradydwilton/surfs_up/blob/main/resources/decPrecip.png' width=283>
